@@ -1,4 +1,35 @@
-# Deep_Learning_Projects
+## Deep_Learning_Projects
+
+This repository contains the jupyter notebooks which i wrote using the open-source datasets available in Kaggle. These notebooks are mainly in the following categories:
+
+1. Sentiment Analysis - Basic Case of Natural Language Processing
+2. Image Detection - Basic Case of Computer Vision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Command to download large files from Google drive using a shareable link
