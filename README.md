@@ -2,36 +2,6 @@
 
 This repository contains the jupyter notebooks which i wrote using the open-source datasets available in Kaggle. These notebooks are mainly in the following categories:
 
-1. Sentiment Analysis - Basic Case of Natural Language Processing
-2. Image Detection - Basic Case of Computer Vision
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Command to download large files from Google drive using a shareable link
-
-`wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=FILEID" -O FILENAME && rm -rf /tmp/cookies.txt`
+1. [Sentiment Analysis](https://github.com/harisyammnv/Deep_Learning_Projects/blob/master/finished_projects/movie-polarity-data-with-NLP/Movie-Polarity-Sentiment-Analysis.ipynb) - Basic Case of Natural Language Processing
+2. [Image Detection](https://github.com/harisyammnv/Deep_Learning_Projects/blob/master/finished_projects/seed-classification-challenge-fastai.ipynb) - Basic Case of Computer Vision
+3. [Time Series fundamentals](http://nbviewer.jupyter.org/github/harisyammnv/Deep_Learning_Projects/blob/36359c54c7db878ebe0224584e31df49cf0588b6/finished_projects/Time-series-fundamentals-I.ipynb)
